@@ -56,38 +56,38 @@ RISC‑V extensions and ML acceleration via HW/SW co‑design.
 
 <ul class="project-list">
 <li>
-<img src="/assets/project/transformer_hw_sw.png" alt="" class="project-thumb">
+<img src="{{ '/assets/project/transformer_hw_sw.png' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>Transformer Encoder Acceleration</strong> — Custom RISC‑V instructions (FMA, hardware softmax) delivering ~8× speedup on a
 simplified encoder.</div>
 </li>
 
 <li>
-<img src="/assets/project/sha256.jpg" alt="" class="project-thumb">
+<img src="{{ '/assets/project/sha256.jpg' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>Open‑Miner‑BTC</strong> — RTL implementation of a Bitcoin mining ASIC in SystemVerilog. <a href="https://github.com/WickedStereo/Open-Miner-BTC">GitHub</a></div>
 </li>
 
 <li>
-<img src="/assets/project/sha256arch.png" alt="" class="project-thumb">
+<img src="{{ '/assets/project/sha256arch.png' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>SHA‑256 ASIC</strong> — Open‑source ASIC optimized for the SHA‑256 hash function used in Bitcoin mining. <a href="https://github.com/WickedStereo/SHA-256-ASIC">GitHub</a></div>
 </li>
 
 <li>
-<img src="/assets/project/aihwkit.jpg" alt="" class="project-thumb">
+<img src="{{ '/assets/project/aihwkit.jpg' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>LLMs on IBM Analog AI Accelerator</strong> — LLAMA‑2 on IBM Analog AI accelerator using PCM arrays. <a href="https://github.com/WickedStereo/LLAMA-2-7b-on-IBM-Analog-AI-accelerator">GitHub</a></div>
 </li>
 
 <li>
-<img src="/assets/project/mbist.png" alt="" class="project-thumb">
+<img src="{{ '/assets/project/mbist.png' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>BIST SRAM Design</strong> — 256×4b SRAM MBIST with four test algorithms; timing optimized with Genus tools. <a href="https://github.com/WickedStereo/SRAM-BIST">GitHub</a></div>
 </li>
 
 <li>
-<img src="/assets/project/riscv.png" alt="" class="project-thumb">
+<img src="{{ '/assets/project/riscv.png' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>RISC‑V Processor</strong> — A from‑scratch RV32I processor core designed for robustness and extensibility. <a href="https://github.com/WickedStereo/RV32I-Processor-Design">GitHub</a></div>
 </li>
 
 <li>
-<img src="/assets/project/vmips_simulator.png" alt="" class="project-thumb">
+<img src="{{ '/assets/project/vmips_simulator.png' | relative_url }}" alt="" class="project-thumb">
 <div class="project-info"><strong>Vector Processor</strong> — Functional and timing simulator for a VMIPS‑based vector processor (46 instructions). <a href="https://github.com/WickedStereo/VMIPS-Func-Timing-Simulator">GitHub</a></div>
 </li>
 </ul>
