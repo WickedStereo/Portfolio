@@ -1,7 +1,7 @@
 title: Anish Miryala
 description: Computer Engineer specializing in VLSI, ASIC Design, Digital Hardware, and Computer Architecture
-url: "" 
-baseurl: ""
+url: "https://wickedstereo.github.io"
+baseurl: "/Portfolio"
 theme: null
 plugins:
   - jekyll-feed
