@@ -24,7 +24,7 @@ A minimalist Jekyll-powered portfolio and blog focused on computer architecture,
 bundle install
 
 # Run local server
-bundle exec jekyll serve
+bundle exec jekyll serve --baseurl ""
 
 # Visit http://localhost:4000
 ```
@@ -49,7 +49,7 @@ Push to GitHub and enable Pages in repository settings:
 - Settings → Pages
 - Source: Deploy from a branch (main)
 
-Your site will be live at `https://[username].github.io/Portfolio/`
+Your site will be live at `https://wickedstereo.github.io/Portfolio/`
 
 ## Project Structure
 

@@ -35,12 +35,12 @@ RISC‑V extensions and ML acceleration via HW/SW co‑design.
 
 ## Experience
 
-**ASIC Design Engineer** — Western Semiconductor (Mar 2025 – Present)
+**ASIC Design Engineer** — Western Semiconductor (Jan 2025 – Present)
 * Designed a TileLink interconnect for cache‑coherent communication in shared RISC‑V systems.
 * Implemented coherent memory access with proper prioritization and serialization support ensuring protocol compliance.
 * Developed a full‑system simulation with a quad core system and three‑level cache hierarchy.
 
-**Graduate Assistant** — NYU (Aug 2023 – May 2024)
+**Graduate Assistant** — NYU (Aug 2023 – Dec 2024)
 * Designed a fully‑custom high‑speed 32Kb SRAM (256×128) using ASU ASAP 7nm PDK.
 * Designed the wordline decoder and beat the 100 ps target by 10%.
 * Collaborated to achieve 200 ps clock‑to‑data‑out via SPICE simulations.
