@@ -5,3 +5,5 @@ baseurl: "/Portfolio"
 theme: null
 plugins:
   - jekyll-feed
+# Optional: Add your Google Analytics tracking ID (Format: G-XXXXXXXXXX or UA-XXXXXXXXX-X)
+# google_analytics: ""

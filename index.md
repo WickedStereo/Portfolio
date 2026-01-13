@@ -57,8 +57,7 @@ RISC‑V extensions and ML acceleration via HW/SW co‑design.
 <ul class="project-list">
 <li>
 <img src="{{ '/assets/project/transformer_hw_sw.png' | relative_url }}" alt="" class="project-thumb">
-<div class="project-info"><strong>Transformer Encoder Acceleration</strong> — Custom RISC‑V instructions (FMA, hardware softmax) delivering ~8× speedup on a
-simplified encoder.</div>
+<div class="project-info"><strong>Transformer Encoder Acceleration</strong> — Custom RISC‑V instructions (FMA, hardware softmax) delivering ~8× speedup on a simplified encoder.</div>
 </li>
 
 <li>
