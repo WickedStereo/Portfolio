@@ -45,11 +45,25 @@ Your content here in Markdown...
 
 ## Deployment
 
-Push to GitHub and enable Pages in repository settings:
-- Settings → Pages
-- Source: Deploy from a branch (main)
+The site is automatically deployed to GitHub Pages using GitHub Actions.
 
-Your site will be live at `https://wickedstereo.github.io/Portfolio/`
+### Automated Deployment
+
+- **Trigger**: Push to `main` branch or manual workflow dispatch
+- **Workflow**: `.github/workflows/jekyll.yml`
+- **Live URL**: `https://wickedstereo.github.io/Portfolio/`
+
+### Setup GitHub Pages (One-time)
+
+1. Go to repository Settings → Pages
+2. Set **Source** to "GitHub Actions"
+3. The site will automatically build and deploy on each push to main
+
+### Manual Deployment
+
+You can manually trigger a deployment from the Actions tab:
+1. Go to Actions → Deploy Jekyll site to Pages
+2. Click "Run workflow"
 
 ## Project Structure
 
